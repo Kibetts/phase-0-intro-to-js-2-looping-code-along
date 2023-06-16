@@ -13,6 +13,8 @@ function writeCards(names, greeting) {
   
     return messages;
   }
+
+  console.log(writeCards)
   
  
 const birthdayMessages = writeCards(names, greeting);
